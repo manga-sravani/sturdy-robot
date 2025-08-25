@@ -1,0 +1,3 @@
+Manga Sravani
+BSC Data Science
+GitHub is fundamental resliance on git's version control capabilities to facilities collaboractive software development and code managment
